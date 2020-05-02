@@ -1,1 +1,2 @@
 
+MapReduce est un patron d'architecture de développement informatique, inventé par Google1, dans lequel sont effectués des calculs parallèles, et souvent distribués, de données potentiellement très volumineuses, typiquement supérieures en taille à 1 téraoctet. MapReduce permet de manipuler de grandes quantités de données en les distribuant dans un cluster de machines pour être traitées.
